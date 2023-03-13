@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu, Toolbar</string>
+    <string name="title">Menu, Toolbar</string>
+    <string name="sync">Sync</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search</string>
+</resources>

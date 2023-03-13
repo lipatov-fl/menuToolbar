@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sync"
+        android:contentDescription="@string/sync"
+        android:icon="@drawable/baseline_sync_24"
+        android:title="@string/sync"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/save"
+        android:contentDescription="@string/save"
+        android:icon="@drawable/baseline_save_24"
+        android:title="@string/save"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/search"
+        android:contentDescription="@string/search"
+        android:icon="@drawable/baseline_search_24"
+        android:title="@string/search"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/delete"
+        android:contentDescription="@string/delete"
+        android:icon="@drawable/baseline_delete_24"
+        android:title="@string/delete"
+        app:showAsAction="ifRoom" />
+
+</menu>

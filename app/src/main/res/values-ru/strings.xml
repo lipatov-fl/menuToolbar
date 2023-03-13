@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Меню, Панель инструментов</string>
+    <string name="title">Меню, Панель инструментов</string>
+    <string name="sync">Обновить</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="search">Поиск</string>
+</resources>
